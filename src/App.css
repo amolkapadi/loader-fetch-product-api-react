@@ -1,0 +1,17 @@
+/* styles.css */
+
+.app-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.loader-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.card-img-top{
+  padding: 50px;
+  height: 330px;
+}
